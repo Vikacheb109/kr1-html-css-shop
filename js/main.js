@@ -72,4 +72,6 @@ orderForm.addEventListener('submit', (event) => {
 
   // Закрываем модальное окно.
   orderDialog.close();
+
 });
+
